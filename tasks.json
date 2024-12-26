@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Fix the JSON error",
+        "status": "in progress"
+    },
+    {
+        "id": 2,
+        "title": "Buy groceries",
+        "status": "not done"
+    }
+]
