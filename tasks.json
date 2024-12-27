@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "title": "Fix the JSON error",
-        "status": "in progress"
+        "title": "Buy rent",
+        "status": "in progess"
     },
     {
         "id": 2,
-        "title": "Buy groceries",
+        "title": "Buy room",
         "status": "not done"
     }
 ]
