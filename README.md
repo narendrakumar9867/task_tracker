@@ -1,10 +1,12 @@
-task_tracker/
-├── task_tracker.py  # Main Python file that contains the application logic
-├── tasks.json       # JSON file for storing task data (add, delete, update, change status)
-├── README.md        # Documentation for the project, including installation and usage instructions
 
-- Test each feature using the CLI.
-- Examples:
+task_tracker
+  |
+  |-task_tracker.py (main file)
+  |
+  |-tasks.json (store your data- Add, delete, update, list, channge_update, status)
+
+Test each feature using the CLI.
+Examples:
   ```bash
   python task_tracker.py add "Buy groceries"
   python task_tracker.py list
