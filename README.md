@@ -1,8 +1,8 @@
 Task Tracker
 
 Clone the repository and run the following command:
-git clone https://github.com/arikchakma/backend-projects.git
-cd backend-projects/task-tracker
+git clone https://github.com/narendrakumar9867/task_tracker
+cd task-tracker
 
 task_tracker
   |
