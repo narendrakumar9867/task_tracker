@@ -1,11 +1,16 @@
 Task Tracker
+
+Clone the repository and run the following command:
+git clone https://github.com/arikchakma/backend-projects.git
+cd backend-projects/task-tracker
+
 task_tracker
   |
   |-task_tracker.py (main file)
   |
   |-tasks.json (store your data- Add, delete, update, list, channge_update, status)
 
-Test each feature using the CLI.
+Run the following command to build and run the project:
 Examples:
   ```bash
   python task_tracker.py add "Buy groceries"
